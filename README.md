@@ -7,6 +7,8 @@ iOS App widget that displays  unique design for every month. Based on a concept 
 
 ## Preview
 To view and alter each design, it is best practise to use the preview editor provided by Xcode
+<img width="883" alt="Screenshot 2023-08-16 at 5 05 04 PM" src="https://github.com/Taha-Chaudhry/monthly-widget/assets/46199675/1eaf3b37-63d9-4f41-ba38-5267c6e19294">
+
 
 ## Notes
 This project is only to demonstrate widget design and functionality, and does not have its own App
